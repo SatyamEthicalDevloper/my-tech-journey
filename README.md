@@ -1,4 +1,4 @@
-# 🚀 Mission SkyHacker
+Satyam kumar
 
 ## 👤 About Me
 I am learning AI + Cyber Security from scratch.
